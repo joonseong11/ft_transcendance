@@ -15,6 +15,7 @@ main repository for ft_transcendance
 - 팀 리더 전준성
 - 프론트 메인페이지(김지인, 전준성), 게임(임호성)
 - 백엔드 메인페이지(김재환, 채우석), 게임(류한솔)
+- 기술 스택 : React, NextJS, Docker, NestJS, Postgress
 
 <img width="543" alt="Screenshot 2023-10-12 at 1 28 21 PM" src="https://github.com/joonseong11/ft_transcendance/assets/87654307/d80c7299-40b1-47db-b232-36352400a52c">
 <img width="1280" alt="Screenshot 2023-10-12 at 1 44 51 PM" src="https://github.com/joonseong11/ft_transcendance/assets/87654307/e37de971-66ac-4511-9b97-48db928487b5">
